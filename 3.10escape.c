@@ -3,7 +3,7 @@
 int main(void)
 {
     float salary;
-    
+
     printf("\aEnter your desired monthly salary.");  /*1*/
     printf("$_______\b\b\b\b\b\b\b");                /*2*/
     scanf("%f",&salary);
