@@ -9,7 +9,7 @@ int main(void)
     char name[40];      //name是一个可容纳40个字符的数组
 
     printf("Hi!What' your first name?\n");
-    scanf("%s",&name)
+    scanf("%s",&name);
 
     printf("%s,what's your weight in pounds?\n",name);
     scanf("%f",&weight);
