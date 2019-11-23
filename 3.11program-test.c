@@ -75,3 +75,12 @@ int main(void)
             return 0;
 }
 */
+#include<stdio.h>
+
+int main(void)
+{
+    printf("I am men!\n");
+    printf("你叫什么？\n");
+    getchar();
+    return 0;
+}
